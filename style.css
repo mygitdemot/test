@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 15px;
+  background-color: #eeeeee;
+}
+
+.container {
+  max-width: 1200px;
+  border: 1px solid #aabbaa;
+}
+
+h1 {
+  text-align: center;
+}
